@@ -14,7 +14,7 @@ Controller::Controller():
     g(nullptr),
     temporary({0,0,0,0,true}),
     temporary_o({0,0,0,0,true}),
-    rPos({5.0,9.0,0}),
+    rPos({6.0,9.0,0}),
     esum(0.0),
     kp(6.0),
     ki(0.006),
